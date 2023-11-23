@@ -1,24 +1,18 @@
-body {
-  background: #58910d;
-  font-family: Arial, sans-serif;
-  color:#424242;
-}
-
-
-
-.details {
-  display: flex;
-  gap: 5px;
-}
-
-.details section {
-  flex-grow: 1;
-  flex-basis: 0;
-  background: #960303;
-  padding: 5px;
-}
-
-
-img {
-  width: 100%;
-}
+body{
+  background-color: rgb(8, 95, 124);
+  }
+  
+  h1{
+  color: white;
+  text-align: center;
+  }
+  h2{
+    color:blue;
+  }
+  h3{
+    color:green;
+  }
+  p{
+  font-family: arial;
+  font-size: 20px;
+  }
