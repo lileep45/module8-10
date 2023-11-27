@@ -1,19 +1,21 @@
-body{
+body {
   background-color: rgb(8, 95, 124);
   }
   
-  h1{
+  h1 {
   color: white;
   text-align: center;
   }
-  h2{
+
+  h2 {
     color:blue;
   }
-  h3{
+
+  h3 {
     color:green;
   }
-  p{
+
+  p {
   font-family: arial;
   font-size: 20px;
   }
-  
